@@ -2920,7 +2920,7 @@ var translations = [
 	gor: "waiku"
 	},
 	{
-	en: "moon-made",
+	en: "moon-mage",
 	gor: "amtuk"
 	},
 	{
